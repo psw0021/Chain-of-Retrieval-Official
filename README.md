@@ -1,7 +1,7 @@
 # 🔗 Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval
 [![arXiv](https://img.shields.io/badge/arXiv-2507.10057-b31b1b)](https://arxiv.org/abs/2507.10057)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Benchmark](https://img.shields.io/badge/Benchmark-purple)](https://huggingface.co/datasets/Jackson0018/Paper2PaperRetrievalBench)
+[![Benchmark](https://img.shields.io/badge/Benchmark-purple?logo=huggingface)](https://huggingface.co/datasets/Jackson0018/Paper2PaperRetrievalBench)
 
 > *Multi-aspect-guided iterative retrieval framework using full context of scientific papers*
 ---
