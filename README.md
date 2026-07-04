@@ -1,19 +1,18 @@
 # 🔗 Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval
+[![arXiv](https://img.shields.io/badge/arXiv-2505.09666-b31b1b)](https://arxiv.org/abs/2507.10057)
+[![License](https://img.shields.io/badge/License-MIT-green)]
+[![Benchmark](https://img.shields.io/badge/Benchmark-purple)](https://huggingface.co/datasets/Jackson0018/Paper2PaperRetrievalBench)
 
 > *Multi-aspect-guided iterative retrieval framework using full context of scientific papers*
-
-<p align="center">
-  <img src="Assets/framework.png" width="850">
-</p>
-
 ---
 
 ## 📘 Overview
 
 **Chain-of-Retrieval (CoR)** is a multi-agent retrieval framework that decomposes a full scientific paper into multiple research aspects — such as *methodology, research questions(motivations), and experimental results* — and performs retrieval via a **chain-of-query** process, while the retrieved results are then hierarchically aggregated to form robust interpretation of dynamic relations between pool of related research by taking the decaying semantic relations with retrieval depth increase.
 
-🔗 **arXiv:** [arxiv.org/abs/2507.10057](https://arxiv.org/abs/2507.10057)  
-📊 **Benchmark:** [SciFullBench/PatentFullBench](https://huggingface.co/datasets/Jackson0018/Paper2PaperRetrievalBench)
+<p align="center">
+  <img src="Assets/framework.png" width="850">
+</p>
 
 ---
 
